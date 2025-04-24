@@ -209,7 +209,7 @@ p, li{
         transform: translateX(0px);
     }
     33%{
-        transform: translateX(5px) rotate(180deg);
+        transform: translateX(15px) rotate(180deg);
     }
     66%{
         transform: translateX(-5px) rotate(-180deg);
