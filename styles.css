@@ -205,10 +205,19 @@ p, li{
 }
 
 @keyframes move-football {
-  0%{ transform: translateX(0); }
-  33%{ transform: translateX(300px) rotate(180deg); }
-  66%{ transform: translateX(-300px) rotate(-180deg); }
-  100%{ transform: translateX(0); }
+    0%{
+        transform: translateX(0);
+    }
+    33%{
+        transform: translateX(450px) rotate(180deg);
+    }
+    66%{
+        transform: translateX(-450px) rotate(-180deg);
+    }
+   100%{
+        transform: translate(0);
+    }
+    
 }
 
 .container{
