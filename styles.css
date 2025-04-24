@@ -206,7 +206,7 @@ p, li{
 
 @keyframes move-football {
     0%{
-        transform: translateX(0);
+        transform: translateX(-5px);
     }
     50%{
         transform: translateX(450px) rotate(180deg);
