@@ -206,16 +206,16 @@ p, li{
 
 @keyframes move-football {
     0%{
-        transform: translateX(50px);
+        transform: translateX(0px);
     }
     33%{
-        transform: translateX(450px) rotate(180deg);
+        transform: translateX(400px) rotate(180deg);
     }
     66%{
-        transform: translateX(-450px) rotate(-180deg);
+        transform: translateX(-400px) rotate(-180deg);
     }
    100%{
-        transform: translate(50px);
+        transform: translate(0px);
     }
     
 }
