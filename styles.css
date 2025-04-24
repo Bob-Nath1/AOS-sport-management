@@ -209,10 +209,10 @@ p, li{
         transform: translateX(0px);
     }
     33%{
-        transform: translateX(400px) rotate(180deg);
+        transform: translateX(40px) rotate(180deg);
     }
     66%{
-        transform: translateX(-400px) rotate(-180deg);
+        transform: translateX(-40px) rotate(-180deg);
     }
    100%{
         transform: translate(0px);
